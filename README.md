@@ -1,11 +1,21 @@
 # Back-Up Transfer Tool
 
+Transfer files between two existing directories.
+
+**Add to path.**
+
+## Usage
+
 ```bash
 butt <source-path> <destination-path>
 ```
 
-Primer:
+Example:
 
 ```bash
 butt Dokumenti/ Backup/
 ```
+
+## Screenshot
+
+![example](img/example.png)
